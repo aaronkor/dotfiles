@@ -1,0 +1,8 @@
+[user]
+	email = aaron.kor@gmail.com
+	name = aaronkor
+[credential]
+	helper = cache --timeout=3600000
+[core]
+	editor = vim
+	autocrlf = input
